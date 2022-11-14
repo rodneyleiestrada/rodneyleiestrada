@@ -1,4 +1,4 @@
-### Hi there 👋
+
 [![MasterHead](https://t3.ftcdn.net/jpg/03/38/93/64/360_F_338936421_gRUJPx3lkUubis20MznfgAlDnQWVJ63p.jpg)](https://rodneyleiestrada.io)
 <h1 align="center">Hi 👋, I'm Rodney Lei D. Estrada</h1>
 <h3 align="center">BS Computer Science student specializing in Machine Learning from National University - Manila, Philippines</h3>
